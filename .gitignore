@@ -1,0 +1,8 @@
+test_example/*
+logs/*
+data_list/*
+__MACOSX
+__pycache__
+model/__pycache__
+utils/__pycache__
+.idea
